@@ -1,4 +1,4 @@
-var VERSION = '0.1';
+const VERSION = '0.1';
 
 //Change the code below: 
 
